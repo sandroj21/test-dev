@@ -4,7 +4,6 @@ import Index from './views/Index.vue'
 import Login from './views/Login.vue'
 import Saques from './views/Saques.vue'
 import Depositos from './views/Depositos.vue'
-import Registro from './views/Registro.vue'
 
 Vue.use(Router)
 
@@ -30,11 +29,6 @@ export default new Router({
             path: '/depositos',
             name: 'depositos',
             component: Depositos
-        },
-        {
-            path: '/registro',
-            name: 'registro',
-            component: Registro
         }
     ]
 })

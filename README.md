@@ -1,3 +1,22 @@
+# MODIFICADO
+
+O projeto foi clonado e alterado com base nas orientações previstas abaixo.
+
+Seguindo a linha de raciocinio, a proposta de utilização da Asp Net Web API foi aceita e então a criação do Back-end partiu da utilização de Vue.JS integrado ao C#, além de utilizar também o Front End para o desenvolvimento do Projeto.
+
+Algumas funcionalidades previstas no User stories foram implementadas como: 
+
+Ver todas as transações
+Ver todas as transações de saque
+Ver todas as transações de deposito
+
+As demais funcionalidades se tornaram estáticas, não sendo possível conclui-las com êxito.
+
+Em relação ao Front End houve pequenas alterações partindo do protótipo de criação de telas para o usuário.
+
+O projeto e Api foram executados no Localhost em portas diferentes. Os métodos Get e Post retornam e enviam as informações respectivamente;
+
+Na página design, é possivel encontrar todas as novas imagens da parte visual implementada(Views);
 
 # Teste Desenvolvedor Liga Contra o Câncer
 
